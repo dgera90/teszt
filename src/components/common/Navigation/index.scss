@@ -1,0 +1,13 @@
+.navigation {
+    &__links {
+        display: flex;
+        list-style-type: none;
+        margin: 1rem;
+        justify-content: center;
+        padding-inline-start: 0;
+    }
+
+    &__link {
+        margin: 1rem;
+    }
+}
