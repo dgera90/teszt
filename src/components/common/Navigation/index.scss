@@ -9,5 +9,15 @@
 
     &__link {
         margin: 1rem;
+        flex: 1;
     }
+    // &__link:hover {
+    //     color:red;
+    // }
+    // &__link:active{
+    //     font-weight: bold;
+    // }
+}
+.-active {
+    color:red;
 }

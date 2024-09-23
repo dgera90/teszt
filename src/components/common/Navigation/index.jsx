@@ -13,6 +13,7 @@ const Navigation = () => {
         <ul className='navigation__links'>
           <li><NavLink to='/' className={createLinkClass} >Home</NavLink></li>
           <li><NavLink to='/about' className={createLinkClass} >About</NavLink></li>
+          <li><NavLink to='/contact' className={createLinkClass} >Contact</NavLink></li>
         </ul>
       </div>
       </>

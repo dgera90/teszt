@@ -1,9 +1,11 @@
 .header {
-    border: 1px solid white;
-    position: sticky;
+    border-bottom: 1px solid white;
     display: block;
-    top: 0;
+    left:0;
+    top:0;
+    right:0;
     width: 100%;
+    background-color: gold;
 
     &__title {
         font-size: 3rem;
